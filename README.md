@@ -34,3 +34,5 @@ EchoShift — this is an instrument designed to provide the most accurate and hi
 - Wait until the process is complete.
 > 
 > ⚠️ Important: Do not run the program directly from the archive — extract it first into your chosen directory.
+
+ 
