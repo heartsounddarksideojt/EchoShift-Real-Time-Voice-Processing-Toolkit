@@ -35,4 +35,6 @@ EchoShift — this is an instrument designed to provide the most accurate and hi
 > 
 > ⚠️ Important: Do not run the program directly from the archive — extract it first into your chosen directory.
 
- 
+
+
+  
