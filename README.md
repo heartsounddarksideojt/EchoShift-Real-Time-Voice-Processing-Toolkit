@@ -1,5 +1,5 @@
 
-<img width="1536" height="1024" alt="9c416c49-ac1d-4c57-883c-d35793de8c5b" src="https://github.com/user-attachments/assets/36dbd245-9a75-499d-89c9-231b5fc6c725" />
+<img width+"1536" height+"1024" alt+"9c416c49-ac1d-4c57-883c-d35793de8c5b" src+"https://github.com/user-attachments/assets/36dbd245-9a75-499d-89c9-231b5fc6c725" />
 
 EchoShift — this is an instrument designed to provide the most accurate and high-quality voice processing in real time 🎤✨ It doesn't just change the sound of a voice — it allows you to precisely control its characteristics, preserving naturalness and liveliness of speech 😊🗣️
 
@@ -34,6 +34,7 @@ EchoShift — this is an instrument designed to provide the most accurate and hi
 - Wait until the process is complete.
 > 
 > ⚠️ Important: Do not run the program directly from the archive — extract it first into your chosen directory.
+
 
 
 
